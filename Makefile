@@ -1,3 +1,3 @@
 say-hello:
-	print('Hello, World!')
+	Hello, World!
 
